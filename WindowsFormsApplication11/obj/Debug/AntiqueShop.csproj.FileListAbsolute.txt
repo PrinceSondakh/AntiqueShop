@@ -1,0 +1,85 @@
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\bin\Debug\MetroFramework.dll
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\bin\Debug\MySql.Data.dll
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\obj\Debug\AntiqueShop.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.AntiqueShop.resources
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\obj\Debug\AntiqueShop.csproj.GenerateResource.Cache
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\Jack\Documents\Visual Studio 2012\Projects\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\obj\Debug\AntiqueShop.csprojResolveAssemblyReference.cache
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.AntiqueShop.resources
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\obj\Debug\AntiqueShop.csproj.GenerateResource.Cache
+D:\Vispro\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\MySql.Data.dll
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\MySql.Data.xml
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\AntiqueShop.csprojResolveAssemblyReference.cache
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.AntiqueShop.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\AntiqueShop.csproj.GenerateResource.Cache
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\DOPFNS_RealWorld.antique_Login.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\DOPFNS_RealWorld.Form1.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form_About.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.antique_gps.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\project.Customer.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\Ujian___Transaksi_rental_mobil.Transaksi.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.AntiqueShop_pembeli.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.antique_report.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form_sms.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommServer.dll
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommShared.dll
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommunication.dll
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\PDUConverter.dll
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommServer.xml
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommShared.xml
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommunication.xml
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\PDUConverter.xml
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form_email.resources
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\bin\Debug\stdole.dll
+D:\S 6\Visual Programming\PROJECT_ANTIQUE\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form_Admin.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommServer.dll
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommShared.dll
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommunication.dll
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\MySql.Data.dll
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\PDUConverter.dll
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\stdole.dll
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommServer.xml
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommShared.xml
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\GSMCommunication.xml
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\MySql.Data.xml
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\bin\Debug\PDUConverter.xml
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\AntiqueShop.csprojResolveAssemblyReference.cache
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.AntiqueShop.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.AntiqueShop_pembeli.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.antique_gps.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\DOPFNS_RealWorld.antique_Login.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\DOPFNS_RealWorld.Form1.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.antique_report.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\project.Customer.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form_About.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form_Admin.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form_email.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form_sms.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\Ujian___Transaksi_rental_mobil.Transaksi.resources
+D:\S 6\Rekayasa perangkat lunak\final\AntiqueShop\WindowsFormsApplication11\obj\Debug\AntiqueShop.csproj.GenerateResource.Cache

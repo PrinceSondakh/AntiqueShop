@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67C7C864-A9B1-4467-B5A7-4FC253A10358}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication11</RootNamespace>
+    <AssemblyName>WindowsFormsApplication11</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.4">
+      <HintPath>D:\Materi\Semester IV\VISPRO\Bunifu_UI_v1.4\Bunifu_UI_v1.4.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="GSMCommServer">
+      <HintPath>C:\Program Files\GSMComm\DotNet40\GSMCommServer.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommShared">
+      <HintPath>C:\Program Files\GSMComm\DotNet40\GSMCommShared.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommunication">
+      <HintPath>C:\Program Files\GSMComm\DotNet40\GSMCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>D:\Materi\Semester IV\VISPRO\METRO DLL\METRO DLL\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>D:\Materi\Semester IV\VISPRO\METRO DLL\METRO DLL\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>D:\Materi\Semester IV\VISPRO\METRO DLL\METRO DLL\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>D:\Materi\Semester IV\VISPRO\METRO DLL\METRO DLL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PDUConverter">
+      <HintPath>C:\Program Files\GSMComm\DotNet40\PDUConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AntiqueShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntiqueShop.Designer.cs">
+      <DependentUpon>AntiqueShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AntiqueShop_pembeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AntiqueShop_pembeli.Designer.cs">
+      <DependentUpon>AntiqueShop_pembeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="antique_gps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="antique_gps.Designer.cs">
+      <DependentUpon>antique_gps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="antique_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="antique_Login.designer.cs">
+      <DependentUpon>antique_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="antique_Register_Lupa_Pass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="antique_Register_Lupa_Pass.designer.cs">
+      <DependentUpon>antique_Register_Lupa_Pass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="antique_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="antique_report.Designer.cs">
+      <DependentUpon>antique_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="antique_sell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="antique_sell.designer.cs">
+      <DependentUpon>antique_sell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_About.Designer.cs">
+      <DependentUpon>Form_About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Admin.Designer.cs">
+      <DependentUpon>Form_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_email.Designer.cs">
+      <DependentUpon>Form_email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_sms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_sms.Designer.cs">
+      <DependentUpon>Form_sms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi.designer.cs">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AntiqueShop.resx">
+      <DependentUpon>AntiqueShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AntiqueShop_pembeli.resx">
+      <DependentUpon>AntiqueShop_pembeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="antique_gps.resx">
+      <DependentUpon>antique_gps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="antique_Login.resx">
+      <DependentUpon>antique_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="antique_Register_Lupa_Pass.resx">
+      <DependentUpon>antique_Register_Lupa_Pass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="antique_report.resx">
+      <DependentUpon>antique_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="antique_sell.resx">
+      <DependentUpon>antique_sell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_About.resx">
+      <DependentUpon>Form_About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Admin.resx">
+      <DependentUpon>Form_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_email.resx">
+      <DependentUpon>Form_email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_sms.resx">
+      <DependentUpon>Form_sms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Transaksi.resx">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
